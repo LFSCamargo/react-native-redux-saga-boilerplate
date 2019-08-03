@@ -1,0 +1,5 @@
+29c7b23de201df6006bf2e407119d0cd
+module.exports = {
+      testUri: 
+        "../Libraries/NewAppScreen/components/logo.png"
+    };
