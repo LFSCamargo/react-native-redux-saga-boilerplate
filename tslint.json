@@ -8,6 +8,7 @@
   ],
   "jsRules": {},
   "rules": {
+    "jsx-no-lambda": false,
     "ordered-imports": false,
     "curly": false,
     "function-name": false,
